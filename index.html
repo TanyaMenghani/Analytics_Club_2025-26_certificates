@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Certificate Portal · Analytics Club, IIT Bombay</title>
+  <meta name="description" content="Download your Deep Learning Bootcamp 2025 and Winter in Data Science 2025 certificates from Analytics Club, IIT Bombay." />
+  <link rel="icon" type="image/png" href="favicon.png" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700;800&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="css/style.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="#" class="brand" id="brand-home">
+        <img src="assets/logos/ugac.jpg" alt="UGAC" class="logo logo-ugac" />
+        <span class="brand-divider"></span>
+        <img src="assets/logos/analytics-club.png" alt="Analytics Club" class="logo logo-ac" />
+        <div class="brand-text">
+          <span class="brand-title">Analytics Club</span>
+          <span class="brand-sub">IIT Bombay · UGAC</span>
+        </div>
+      </a>
+      <nav class="nav-links">
+        <a href="https://ugac-iitb.github.io/UGAC-IITB" target="_blank" rel="noopener">UGAC</a>
+        <a href="https://www.instagram.com/analytics.iitb/" target="_blank" rel="noopener">Instagram</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <!-- HERO -->
+    <section class="hero">
+      <div class="container">
+        <p class="eyebrow">Certificate Portal · 2025</p>
+        <h1 class="hero-title">
+          Claim your <span class="accent">certificate</span>
+        </h1>
+        <p class="hero-sub">
+          For participants of the Deep Learning Bootcamp 2025 and Winter in
+          Data Science 2025 organised by the Analytics Club, IIT Bombay.
+        </p>
+      </div>
+    </section>
+
+    <!-- STEP 1: PICK TYPE -->
+    <section id="step-pick" class="step active">
+      <div class="container">
+        <h2 class="step-title">Choose your programme</h2>
+        <div class="card-grid">
+          <button class="pick-card" data-pick="bootcamp">
+            <div class="pick-tag">Bootcamp</div>
+            <h3>Deep Learning Bootcamp</h3>
+            <p>
+              Computer Vision and NLP tracks — Basic and Advanced. You may be
+              eligible for more than one certificate.
+            </p>
+            <span class="pick-arrow">Continue →</span>
+          </button>
+          <button class="pick-card" data-pick="wids">
+            <div class="pick-tag">Project</div>
+            <h3>Winter in Data Science (WiDS)</h3>
+            <p>
+              Personalised certificate for each WiDS project you completed.
+              If you did multiple projects, you'll get all of them.
+            </p>
+            <span class="pick-arrow">Continue →</span>
+          </button>
+          <button class="pick-card" data-pick="mentor">
+            <div class="pick-tag">Mentor</div>
+            <h3>WiDS Mentor</h3>
+            <p>
+              Certificate of recognition for mentors who guided WiDS 5.0
+              project teams.
+            </p>
+            <span class="pick-arrow">Continue →</span>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- STEP 2: ENTER NAME -->
+    <section id="step-enter" class="step">
+      <div class="container narrow">
+        <button class="back-link" data-back="step-pick">← Back</button>
+        <h2 class="step-title" id="enter-title">Enter your name</h2>
+        <p class="step-sub" id="enter-sub">
+          Type your full name as you registered. Capitalisation, extra spaces,
+          and skipped middle names are all fine — we'll match you anyway.
+        </p>
+        <form id="name-form" class="name-form" autocomplete="off">
+          <label for="name-input" class="visually-hidden">Your name</label>
+          <input
+            type="text"
+            id="name-input"
+            name="name"
+            placeholder="e.g. Aarav Sharma"
+            required
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <button type="submit" class="btn-primary">Find my certificates</button>
+        </form>
+        <div id="suggest-box" class="suggest-box hidden"></div>
+      </div>
+    </section>
+
+    <!-- STEP 3: RESULTS -->
+    <section id="step-results" class="step">
+      <div class="container">
+        <button class="back-link" data-back="step-enter">← Back</button>
+        <h2 class="step-title" id="results-title">Your certificates</h2>
+        <p class="step-sub" id="results-sub"></p>
+        <div id="results-list" class="results-list"></div>
+        <div id="results-empty" class="empty-state hidden">
+          <h3>We couldn't find a match</h3>
+          <p>
+            Double-check your spelling. If you believe this is an error,
+            please reach out to the Analytics Club team at
+            <a href="mailto:analyticsclub@iitb.ac.in">analyticsclub@iitb.ac.in</a>.
+          </p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div>
+        <strong>Analytics Club, IIT Bombay</strong><br />
+        Undergraduate Academic Council
+      </div>
+      <div class="footer-links">
+        <a href="mailto:analyticsclub@iitb.ac.in">analyticsclub@iitb.ac.in</a>
+        <a href="https://www.instagram.com/analytics.iitb/" target="_blank" rel="noopener">Instagram</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- data + app -->
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
