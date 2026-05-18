@@ -2024,673 +2024,180 @@ window.CERT_DATA = {
   ],
 
   "mentors": [
-    {
-      "name": "Aadeshveer Singh",
-      "project": "Monte Carlo Simulations: From calculating area to Gambling in BlackJack"
-    },
-    {
-      "name": "Aakash Tarang",
-      "project": "ChronosTrade: Multi-Modal Stock Market Prediction using LSTM, ARIMA, and Sentiment Analysis"
-    },
-    {
-      "name": "Aarav Gupta",
-      "project": "SSMphony - AI voice generation using Mamba + SSMs"
-    },
-    {
-      "name": "Aarav Malde",
-      "project": "Kalman Filtered Trader: A RL Agent for portfolio optimization"
-    },
-    {
-      "name": "Aarnav Girish",
-      "project": "IntelliBrief: Your Personal AI News Agent"
-    },
-    {
-      "name": "Abhijeet Singh",
-      "project": "Neural Networks - Teaching Computers to Think!"
-    },
-    {
-      "name": "Abhilasha",
-      "project": "AI for Logical Thinking"
-    },
-    {
-      "name": "Abhinav Badegaonkar",
-      "project": "Stock price prediction using Reinforcement Learning"
-    },
-    {
-      "name": "Abhinav V",
-      "project": "Movie Recommendations system"
-    },
-    {
-      "name": "Abhineet Agarwal",
-      "project": "GPU Programming using CUDA and Triton"
-    },
-    {
-      "name": "Abhishek Kumar",
-      "project": "EyeQ"
-    },
-    {
-      "name": "Adarsh Prajapati",
-      "project": "Analysis of Geopolitical factors over Global Supply Chain using RL"
-    },
-    {
-      "name": "Adeesh Jain",
-      "project": "Playing with Artificial Intelligence & Machine Learning"
-    },
-    {
-      "name": "Adish Gupta",
-      "project": "SentiMind"
-    },
-    {
-      "name": "Aditya Khambete",
-      "project": "Real-Time Anomaly Detection in Surveillance Videos"
-    },
-    {
-      "name": "Aditya O,",
-      "project": "Deep Learning from Scratch: From Perceptron to Custom CNN"
-    },
-    {
-      "name": "Aditya R. Dharpal",
-      "project": "Battery SOH estimation"
-    },
-    {
-      "name": "Aditya Sanapala",
-      "project": "Blockchain-Integrated Machine learning system for Cryptocurrency Fraud Detection"
-    },
-    {
-      "name": "Aditya Saran",
-      "project": "Warming Up the Mic: Build Your own Speech-to-Text Engine!"
-    },
-    {
-      "name": "Advay Bapat",
-      "project": "Analysis of Geopolitical factors over Global Supply Chain using RL"
-    },
-    {
-      "name": "Akshat Goel",
-      "project": "Machine Learning From Scratch"
-    },
-    {
-      "name": "Amogh Agrawal",
-      "project": "RL in Trading"
-    },
-    {
-      "name": "Anmol Sureka",
-      "project": "Can Computers Think"
-    },
-    {
-      "name": "Anousha Puvvala",
-      "project": "AutoDevX: The Next-Gen Agentic AI for Autonomous Code Testing and Self-Improving Applications"
-    },
-    {
-      "name": "Anshit Singh",
-      "project": "Sarcasm Detection in News Headlines"
-    },
-    {
-      "name": "Anshul Goyal",
-      "project": "IntelliBrief: Your Personal AI News Agent"
-    },
-    {
-      "name": "Anshuman Gupta",
-      "project": "Minigames using SAT solver"
-    },
-    {
-      "name": "Anubhav Dash",
-      "project": "Citadel — Build the Algorithmic Black Box"
-    },
-    {
-      "name": "Anubhav Yadav",
-      "project": "Guide into the World of ML"
-    },
-    {
-      "name": "Apoorv goyal",
-      "project": "WildVision: Detecting Life in the Wilderness"
-    },
-    {
-      "name": "Armaan Valecha",
-      "project": "Machine Learning From Scratch"
-    },
-    {
-      "name": "Aryan Metha",
-      "project": "Data-Driven Carbon Footprint Analytics for Chemical Processes"
-    },
-    {
-      "name": "Aryan Prakash",
-      "project": "Teaching AI Agents to Walk: Reinforcement Learning with Humanoids"
-    },
-    {
-      "name": "Ashwary Verma",
-      "project": "TYPES OF TRESS IN DATA STRUCTURE"
-    },
-    {
-      "name": "Ayush Sharma",
-      "project": "TYPES OF TRESS IN DATA STRUCTURE"
-    },
-    {
-      "name": "Ayush Vijay Awatade",
-      "project": "Options Pricing"
-    },
-    {
-      "name": "Ayusha Hongekar",
-      "project": "Text Sentiment Analysis API"
-    },
-    {
-      "name": "Bhagyansh Sahu",
-      "project": "Optimal Portfolio Allocation"
-    },
-    {
-      "name": "Bhavin",
-      "project": "Age guesstimator"
-    },
-    {
-      "name": "Bhoomi Singhvi",
-      "project": "Predicting Stock Volatility Using Financial News Sentiment Analysis"
-    },
-    {
-      "name": "Bibaswan Biswas",
-      "project": "Lidar Cone Detection (LCD)"
-    },
-    {
-      "name": "Boda Prabanjan Jadav",
-      "project": "Foundations of Computer Vision"
-    },
-    {
-      "name": "Chaitanya Deshkar",
-      "project": "Movie Recommendations system"
-    },
-    {
-      "name": "Daksh Makwana",
-      "project": "End-to-End ML Systems on new datasets: From Transfer Learning to Production Deployment with Federated Averaging"
-    },
-    {
-      "name": "Dakshesh Sanjay Mishra",
-      "project": "DL Content Based Recommender for Movies"
-    },
-    {
-      "name": "Dawar J Deka",
-      "project": "Predicting Market Dynamics for Data-Driven Portfolio Optimization"
-    },
-    {
-      "name": "Deependra Sharma",
-      "project": "OncoNet - Skin Cancer Classification and Lesion Segmentation Using Deep Learning and Vision Transformers"
-    },
-    {
-      "name": "Devounkar Giri",
-      "project": "Predicting Physics Observables at the LHC using Machine Learning on Advanced Collider Data"
-    },
-    {
-      "name": "Dhanvin",
-      "project": "WildVision: Detecting Life in the Wilderness"
-    },
-    {
-      "name": "Dhruv Chaturvedi",
-      "project": "Stock Prediction model using LSTM"
-    },
-    {
-      "name": "Dhruva Reddy",
-      "project": "Introduction to Anomaly Detection using Probabilistic ML"
-    },
-    {
-      "name": "Dinesh",
-      "project": "Augmented Reality Face Tracking and Overlay System"
-    },
-    {
-      "name": "Disha Agrawal",
-      "project": "From Video to Notes: Build an AI That Watches Lectures for You"
-    },
-    {
-      "name": "Disha Jain",
-      "project": "Exploratory Data Analysis (EDA) Using Python"
-    },
-    {
-      "name": "Divyanshu Gupta",
-      "project": "Exploratory Data Analysis (EDA) Using Python"
-    },
-    {
-      "name": "Farhan al zayed",
-      "project": "GitHub Repository Guide Agent"
-    },
-    {
-      "name": "Garvit Meena",
-      "project": "Beyond the blackbox"
-    },
-    {
-      "name": "Gurnoor Sohal",
-      "project": "Speech Emotion Recognition"
-    },
-    {
-      "name": "Harsh kumar singh",
-      "project": "Accio Alpha – Kalman Filtering magic"
-    },
-    {
-      "name": "Harshita",
-      "project": "Study of Models"
-    },
-    {
-      "name": "Harshitha Inampudi",
-      "project": "Mini-GPT2"
-    },
-    {
-      "name": "Harshvardhan Srivastav, Aryaman Kavi",
-      "project": "AI for Logical Thinking"
-    },
-    {
-      "name": "Hindocha Avadh Dharmeshbhai",
-      "project": "Battery SOH estimation"
-    },
-    {
-      "name": "Japman Kaur Aneja",
-      "project": "Tokens to Thought: A Contextual Transformer"
-    },
-    {
-      "name": "Jasnoor Kaur",
-      "project": "FlappyBird : where Flappy learns to fly"
-    },
-    {
-      "name": "Jeet Gurbani",
-      "project": "Decode the Vision: Building CNNs for Real-World Image Classification"
-    },
-    {
-      "name": "Juee Jahagirdar",
-      "project": "AI Media Automation Lab"
-    },
-    {
-      "name": "Jyotirya Agrawal",
-      "project": "Decoding the AI Black Box: Feature Visualization & Error Analysis"
-    },
-    {
-      "name": "K.Hari Hara Teja",
-      "project": "Sentiment Analysis for Social Media Posts"
-    },
-    {
-      "name": "Karan Bansal",
-      "project": "web scraper"
-    },
-    {
-      "name": "Kasak Malhotra",
-      "project": "Predicting Stock Volatility Using Financial News Sentiment Analysis"
-    },
-    {
-      "name": "Krish Bhanderi",
-      "project": "Lidar Cone Detection (LCD)"
-    },
-    {
-      "name": "Krisha Biradar",
-      "project": "Age guesstimator"
-    },
-    {
-      "name": "Krishang Krishna",
-      "project": "Augmented Reality Face Tracking and Overlay System"
-    },
-    {
-      "name": "Krishna Kukreja",
-      "project": "Kalman Filtered Trader: A RL Agent for portfolio optimization"
-    },
-    {
-      "name": "Krishna Sai Shishir Vuppala",
-      "project": "Speech Emotion Recognition"
-    },
-    {
-      "name": "Kunal Gandvane",
-      "project": "Intro to Reinforcement Learning"
-    },
-    {
-      "name": "Kushagra Bansal",
-      "project": "AI for Self-Driving Car: Build a Traffic Sign Classifier"
-    },
-    {
-      "name": "Kushagra Kushwaha",
-      "project": "Applying AI models on Video Footage using YOLO and OpenCV"
-    },
-    {
-      "name": "lakshaditya Singh",
-      "project": "Introduction to Machine Learning"
-    },
-    {
-      "name": "Madhav Miglani",
-      "project": "Image to Insight: The \"Meme\" Analyzer"
-    },
-    {
-      "name": "Mahaswi Ganipisetty",
-      "project": "Simulation and Quantitative Analysis of the Black–Scholes Model Using Python"
-    },
-    {
-      "name": "Manish Kumar Palsaniya",
-      "project": "Training Models for Object detection through Machine learning"
-    },
-    {
-      "name": "Manvi Mehta",
-      "project": "Ask the Image: Explainable AI for Visual Q&A"
-    },
-    {
-      "name": "Mayank Jain",
-      "project": "Movie Recommendation System using Content based Filtering"
-    },
-    {
-      "name": "Mayank kansal",
-      "project": "RL in Trading"
-    },
-    {
-      "name": "Meet Agrawal",
-      "project": "Options Pricing"
-    },
-    {
-      "name": "Melvin Varghese",
-      "project": "Bridging Language and Personalization: A Practical Dive into AI Applications"
-    },
-    {
-      "name": "Mridul Choudhary",
-      "project": "Market Mood & Moves: Sentiment-Driven Stock Prediction"
-    },
-    {
-      "name": "Mrigank Goel",
-      "project": "Beginner's Guide to Machine Learning and Deep Learning"
-    },
-    {
-      "name": "Muhammed Sufiyan",
-      "project": "Agentic Auto-flows"
-    },
-    {
-      "name": "Mulagalapati Eswara Venkata Parthiv",
-      "project": "Tokens to Thought: A Contextual Transformer"
-    },
-    {
-      "name": "Mullani Rehan Shahanur",
-      "project": "ReMind: An Agentic AI Tutor for Memory Retention"
-    },
-    {
-      "name": "Naman Nayak",
-      "project": "Theoretical ML : Algorithms To Applications"
-    },
-    {
-      "name": "Namish Bansal",
-      "project": "ChronosTrade: Multi-Modal Stock Market Prediction using LSTM, ARIMA, and Sentiment Analysis"
-    },
-    {
-      "name": "Narendra Aironi",
-      "project": "Playing with Artificial Intelligence & Machine Learning"
-    },
-    {
-      "name": "Neel Shah",
-      "project": "FlappyBird : where Flappy learns to fly"
-    },
-    {
-      "name": "Nidhi Kumari",
-      "project": "deep learning. from scratch. in code. spelled out."
-    },
-    {
-      "name": "Nikhil Khandelwal",
-      "project": "Building Reasoning LLMs from Scratch using Chain-of-though Reasoning (DeepSeek R1)"
-    },
-    {
-      "name": "Nilkrishna N. Gajare",
-      "project": "Decode the Vision: Building CNNs for Real-World Image Classification"
-    },
-    {
-      "name": "Nitanshu Bhutada",
-      "project": "Text Sentiment Analysis API"
-    },
-    {
-      "name": "Parth Jain",
-      "project": "Noisy Truth"
-    },
-    {
-      "name": "Pragallapati V S D Sai Mohith",
-      "project": "Introduction to Reinforcement Learning"
-    },
-    {
-      "name": "Prajwal Nayak",
-      "project": "Coding a ChatGPT like transformer from scratch"
-    },
-    {
-      "name": "Pranav Mylarassu",
-      "project": "Scrape IT!!"
-    },
-    {
-      "name": "Pranav Patil",
-      "project": "Decoding the AI Black Box: Feature Visualization & Error Analysis"
-    },
-    {
-      "name": "Prashant bothra",
-      "project": "Advanced Agentic AI for Beginners"
-    },
-    {
-      "name": "Pratyush Anand",
-      "project": "Flappy Learner"
-    },
-    {
-      "name": "Prince Kumar",
-      "project": "Guide into the World of ML"
-    },
-    {
-      "name": "Pulkit Gupta",
-      "project": "Blockchain-Integrated Machine learning system for Cryptocurrency Fraud Detection"
-    },
-    {
-      "name": "Raheel Aggarwal",
-      "project": "Financial Modelling"
-    },
-    {
-      "name": "Rahul Pal",
-      "project": "Can Computers Think"
-    },
-    {
-      "name": "Rajdeep Agarwal",
-      "project": "Equity classification using Machine Learning on Financial Ratios"
-    },
-    {
-      "name": "Rakshit Rane",
-      "project": "Agentic AI for Automated Research and Knowledge Discovery"
-    },
-    {
-      "name": "Rujula Ganesh Rahate",
-      "project": "Auto-Damage Vision"
-    },
-    {
-      "name": "Rushabh Bonde",
-      "project": "Simulation and Quantitative Analysis of the Black–Scholes Model Using Python"
-    },
-    {
-      "name": "Rushikesh Shinde",
-      "project": "VisionLock - Build a Facial Recognition Tool"
-    },
-    {
-      "name": "Rushil Bhat",
-      "project": "Building Reasoning LLMs from Scratch using Chain-of-though Reasoning (DeepSeek R1)"
-    },
-    {
-      "name": "Sagnik Dey",
-      "project": "GitHub Repository Guide Agent"
-    },
-    {
-      "name": "Sai Divya Teja",
-      "project": "Introduction to Reinforcement Learning"
-    },
-    {
-      "name": "Saksham Khandelwal",
-      "project": "EyeQ"
-    },
-    {
-      "name": "Salaj Sonar",
-      "project": "Scrape IT!!"
-    },
-    {
-      "name": "Sam Navdeep K",
-      "project": "Architecting LLMs: Building the engine of ChatGPT from First Principles"
-    },
-    {
-      "name": "Samarth Banodia",
-      "project": "Introduction to Machine Learning"
-    },
-    {
-      "name": "Sandipan Dhali",
-      "project": "Quant Agents: A Game Theory Model"
-    },
-    {
-      "name": "Santosh Guntuku",
-      "project": "Image Deblurring using Deep Learning"
-    },
-    {
-      "name": "Sarthak Toshniwal",
-      "project": "Advanced Agentic AI for Beginners"
-    },
-    {
-      "name": "Sayandeep Haldar",
-      "project": "Coding a ChatGPT like transformer from scratch"
-    },
-    {
-      "name": "Shahab Ahmad",
-      "project": "Image to Insight: The \"Meme\" Analyzer"
-    },
-    {
-      "name": "Shibam Sundar Mahakud",
-      "project": "Bridging Language and Personalization: A Practical Dive into AI Applications"
-    },
-    {
-      "name": "Shivam Saini",
-      "project": "Market Mood & Moves: Sentiment-Driven Stock Prediction"
-    },
-    {
-      "name": "Shivansh Gupta",
-      "project": "Introduction to Anomaly Detection using Probabilistic ML"
-    },
-    {
-      "name": "Shourya Saxena",
-      "project": "Ask the Image: Explainable AI for Visual Q&A"
-    },
-    {
-      "name": "Shreshtha Gupta",
-      "project": "SSMphony - AI voice generation using Mamba + SSMs"
-    },
-    {
-      "name": "Shrestha Khatri",
-      "project": "Fake News Detector using NLP"
-    },
-    {
-      "name": "Siddharth Nandipati",
-      "project": "Quant Agents: A Game Theory Model"
-    },
-    {
-      "name": "Sneha Mane",
-      "project": "Through LLM Journey"
-    },
-    {
-      "name": "Sri Surya Varma",
-      "project": "Accio Alpha – Kalman Filtering magic"
-    },
-    {
-      "name": "Srikrishna mourya Karunakaram",
-      "project": "Spotify Song Mood Classifier"
-    },
-    {
-      "name": "Srishti Poddar",
-      "project": "Theoretical ML : Algorithms To Applications"
-    },
-    {
-      "name": "Subodh Patel",
-      "project": "Predictive Customer Analytics: CLV Forecasting & Behavioral Segmentation Using RFM Methodology"
-    },
-    {
-      "name": "Sugandh Kumar",
-      "project": "Architecting LLMs: Building the engine of ChatGPT from First Principles"
-    },
-    {
-      "name": "Sushant Padha",
-      "project": "Mini-GPT2"
-    },
-    {
-      "name": "Swati",
-      "project": "Heatwave Forecasting Model"
-    },
-    {
-      "name": "Syed Ali",
-      "project": "The Eye Within the Code: Crafting a Face Recognition AI"
-    },
-    {
-      "name": "Tanay Jha",
-      "project": "Fake News Detection using NLP"
-    },
-    {
-      "name": "Tanishk nath goswami",
-      "project": "Predicting Market Dynamics for Data-Driven Portfolio Optimization"
-    },
-    {
-      "name": "Tanvi Anand",
-      "project": "Heatwave Forecasting Model"
-    },
-    {
-      "name": "Tanya Menghani",
-      "project": "Teaching AI Agents to Walk: Reinforcement Learning with Humanoids"
-    },
-    {
-      "name": "Tejas Kulkarni",
-      "project": "Sentiment Analysis for Financial News with NLP"
-    },
-    {
-      "name": "Tezas Chetry",
-      "project": "Auto-Damage Vision"
-    },
-    {
-      "name": "Tushaar Anoop Jhamtani",
-      "project": "Monte Carlo Simulations: From calculating area to Gambling in BlackJack"
-    },
-    {
-      "name": "Uma Kumari",
-      "project": "Beyond the blackbox"
-    },
-    {
-      "name": "Utkarsh Tanwar",
-      "project": "ML Meets the Sun and Wind: Smart Mapping for Renewable Energy Hotspots"
-    },
-    {
-      "name": "Vaidehi Agrawal",
-      "project": "Spotify Song Mood Classifier"
-    },
-    {
-      "name": "Varad Padhye",
-      "project": "Sentiment Analysis for Financial News with NLP"
-    },
-    {
-      "name": "Varun Lalwani",
-      "project": "Foundations of Computer Vision"
-    },
-    {
-      "name": "Varun Sri Teja Namala",
-      "project": "Financial Analysis of Multiple Models used in Corporate Finance and Economics"
-    },
-    {
-      "name": "Vatsh van",
-      "project": "Movie Recommendation System using Content based Filtering"
-    },
-    {
-      "name": "Veer Lohia",
-      "project": "Object Recognition System Using Deep Learning (YOLOv5 Framework)"
-    },
-    {
-      "name": "Vibhor Bhartiya",
-      "project": "Stock price prediction using Reinforcement Learning"
-    },
-    {
-      "name": "Vihaan Thaker",
-      "project": "Stock Prediction model using LSTM"
-    },
-    {
-      "name": "Viren Mehta",
-      "project": "Through LLM Journey"
-    },
-    {
-      "name": "Yashneil Rawat",
-      "project": "FaceCipher"
-    },
-    {
-      "name": "Yogesh Sangwan",
-      "project": "Citadel — Build the Algorithmic Black Box"
-    },
-    {
-      "name": "Yuvraj Parekh",
-      "project": "Financial Modelling"
-    },
-    {
-      "name": "Yuvraj Tiwari",
-      "project": "Neural Networks - Teaching Computers to Think!"
-    }
-  ]
+  { "name": "Garvit Meena", "project": "Speech Emotion Recognition" },
+  { "name": "Krishna Kukreja", "project": "Speech Emotion Recognition" },
+  { "name": "Aditya Sanapala", "project": "🎶 Warming Up the Mic: Build Your own Speech-to-Text Engine!" },
+  { "name": "Shreshtha Gupta", "project": "Accio Alpha – Kalman Filtering magic" },
+  { "name": "Gurnoor Sohal", "project": "Accio Alpha – Kalman Filtering magic" },
+  { "name": "Pranav Mylarassu", "project": "Advanced Agentic AI for Beginners" },
+  { "name": "Samarth Banodia", "project": "Advanced Agentic AI for Beginners" },
+  { "name": "Krish Bhanderi", "project": "Age guesstimator" },
+  { "name": "Bhagyansh Sahu", "project": "Age guesstimator" },
+  { "name": "Rahul Pal", "project": "Agentic AI for Automated Research and Knowledge Discovery" },
+  { "name": "Mridul Choudhary", "project": "Agentic Auto-flows" },
+  { "name": "Harshitha Inampudi", "project": "AI for Logical Thinking" },
+  { "name": "Abhilasha", "project": "AI for Logical Thinking" },
+  { "name": "Kunal Gandvane", "project": "AI for Self-Driving Car: Build a Traffic Sign Classifier" },
+  { "name": "Jeet Gurbani", "project": "AI Media Automation Lab" },
+  { "name": "Viren Mehta", "project": "AI Powered Anomaly Detection in Medical Imagery" },
+  { "name": "Aditya Saran", "project": "Analysis of Geopolitical factors over Global Supply Chain using RL" },
+  { "name": "Adarsh Prajapati", "project": "Analysis of Geopolitical factors over Global Supply Chain using RL" },
+  { "name": "Kushagra Bansal", "project": "Applying AI models on Video Footage using YOLO and OpenCV" },
+  { "name": "Sri Surya Varma", "project": "Architecting LLMs: Building the engine of ChatGPT from First Principles" },
+  { "name": "Sai Divya Teja", "project": "Architecting LLMs: Building the engine of ChatGPT from First Principles" },
+  { "name": "Manish Kumar Palsaniya", "project": "Ask the Image: Explainable AI for Visual Q&A" },
+  { "name": "Shahab Ahmad", "project": "Ask the Image: Explainable AI for Visual Q&A" },
+  { "name": "Dhruva Reddy", "project": "Augmented Reality Face Tracking and Overlay System" },
+  { "name": "Krisha Biradar", "project": "Augmented Reality Face Tracking and Overlay System" },
+  { "name": "Syed Ali", "project": "Auto-Damage Vision" },
+  { "name": "Rajdeep Agarwal", "project": "Auto-Damage Vision" },
+  { "name": "Anmol Sureka", "project": "AutoDevX: The Next-Gen Agentic AI for Autonomous Code Testing and Self-Improving Applications" },
+  { "name": "Harshvardhan Srivastav", "project": "Battery SOH estimation" },
+  { "name": "Aryaman Kavi", "project": "Battery SOH estimation" },
+  { "name": "Aditya O", "project": "Battery SOH estimation" },
+  { "name": "Melvin Varghese", "project": "Beginner's Guide to Machine Learning and Deep Learning" },
+  { "name": "Farhan al zayed", "project": "Beyond the blackbox" },
+  { "name": "Tanishk nath goswami", "project": "Beyond the blackbox" },
+  { "name": "Aditya R. Dharpal", "project": "Blockchain-Integrated Machine learning system for Cryptocurrency Fraud Detection" },
+  { "name": "Pratyush Anand", "project": "Blockchain-Integrated Machine learning system for Cryptocurrency Fraud Detection" },
+  { "name": "Sarthak Toshniwal", "project": "Bridging Language and Personalization: A Practical Dive into AI Applications" },
+  { "name": "Meet Agrawal", "project": "Bridging Language and Personalization: A Practical Dive into AI Applications" },
+  { "name": "Rushabh Bonde", "project": "Building Reasoning LLMs from Scratch using Chain-of-though Reasoning (DeepSeek R1)" },
+  { "name": "Neel Shah", "project": "Building Reasoning LLMs from Scratch using Chain-of-though Reasoning (DeepSeek R1)" },
+  { "name": "Amogh Agrawal", "project": "Can Computers Think" },
+  { "name": "Pulkit Gupta", "project": "Can Computers Think" },
+  { "name": "Mullani Rehan Shahanur", "project": "ChronosTrade: Multi-Modal Stock Market Prediction using LSTM, ARIMA, and Sentiment Analysis" },
+  { "name": "Aakash Tarang", "project": "ChronosTrade: Multi-Modal Stock Market Prediction using LSTM, ARIMA, and Sentiment Analysis" },
+  { "name": "Anshuman Gupta", "project": "Citadel — Build the Algorithmic Black Box" },
+  { "name": "Vatsh van", "project": "Citadel — Build the Algorithmic Black Box" },
+  { "name": "Parth Jain", "project": "Coding a ChatGPT like transformer from scratch" },
+  { "name": "Sandipan Dhali", "project": "Coding a ChatGPT like transformer from scratch" },
+  { "name": "Armaan Valecha", "project": "Data-Driven Carbon Footprint Analytics for Chemical Processes" },
+  { "name": "Nidhi Kumari", "project": "Decode the Vision: Building CNNs for Real-World Image Classification" },
+  { "name": "Jasnoor Kaur", "project": "Decode the Vision: Building CNNs for Real-World Image Classification" },
+  { "name": "Juee Jahagirdar", "project": "Decoding the AI Black Box: Feature Visualization & Error Analysis" },
+  { "name": "Prajwal Nayak", "project": "Decoding the AI Black Box: Feature Visualization & Error Analysis" },
+  { "name": "Aditya Khambete", "project": "Deep Learning from Scratch: From Perceptron to Custom CNN" },
+  { "name": "Narendra Aironi", "project": "deep learning. from scratch. in code. spelled out." },
+  { "name": "Daksh Makwana", "project": "DL Content Based Recommender for Movies" },
+  { "name": "Yuvraj Parekh", "project": "End-to-End ML Systems on new datasets: From Transfer Learning to Production Deployment with Federated Averaging" },
+  { "name": "Chaitanya Deshkar", "project": "End-to-End ML Systems on new datasets: From Transfer Learning to Production Deployment with Federated Averaging" },
+  { "name": "Raheel Aggarwal", "project": "Equity classification using Machine Learning on Financial Ratios" },
+  { "name": "Disha Agrawal", "project": "Exploratory Data Analysis (EDA) Using Python" },
+  { "name": "Disha Jain", "project": "Exploratory Data Analysis (EDA) Using Python" },
+  { "name": "Abhishek Kumar", "project": "EyeQ" },
+  { "name": "Sagnik Dey", "project": "EyeQ" },
+  { "name": "Varun Sri Teja Namala", "project": "FaceCipher" },
+  { "name": "Sugandh Kumar", "project": "Fake News Detection using NLP" },
+  { "name": "Shivam Saini", "project": "Fake News Detector using NLP" },
+  { "name": "Tushaar Anoop Jhamtani", "project": "Financial Analysis of Multiple Models used in Corporate Finance and Economics" },
+  { "name": "Veer Lohia", "project": "Financial Modelling" },
+  { "name": "Prince Kumar", "project": "Financial Modelling" },
+  { "name": "Yashneil Rawat", "project": "Flappy Learner" },
+  { "name": "Pranav Patil", "project": "Flappy Learner" },
+  { "name": "Namish Bansal", "project": "FlappyBird : where Flappy learns to fly" },
+  { "name": "Japman Kaur Aneja", "project": "FlappyBird : where Flappy learns to fly" },
+  { "name": "Bibaswan Biswas", "project": "Foundations of Computer Vision" },
+  { "name": "Tezas Chetry", "project": "Foundations of Computer Vision" },
+  { "name": "Dinesh", "project": "From Video to Notes: Build an AI That Watches Lectures for You" },
+  { "name": "Divyanshu Gupta", "project": "GitHub Repository Guide Agent" },
+  { "name": "Rushikesh Shinde", "project": "GitHub Repository Guide Agent" },
+  { "name": "Abhineet Agarwal", "project": "GPU Programming using CUDA and Triton" },
+  { "name": "Anubhav Dash", "project": "Guide into the World of ML" },
+  { "name": "Prashant bothra", "project": "Guide into the World of ML" },
+  { "name": "Vihaan Thaker", "project": "Handwritten Digit Detection" },
+  { "name": "Swati", "project": "Heatwave Forecasting Model" },
+  { "name": "Srishti Poddar", "project": "Heatwave Forecasting Model" },
+  { "name": "Sam Navdeep K", "project": "Image Deblurring using Deep Learning" },
+  { "name": "lakshaditya Singh", "project": "Image to Insight: The \"Meme\" Analyzer" },
+  { "name": "Santosh Guntuku", "project": "Image to Insight: The \"Meme\" Analyzer" },
+  { "name": "Aarnav Girish", "project": "IntelliBrief: Your Personal AI News Agent" },
+  { "name": "Anshit Singh", "project": "IntelliBrief: Your Personal AI News Agent" },
+  { "name": "Krishna Sai Shishir Vuppala", "project": "Intro to Reinforcement Learning" },
+  { "name": "Dhruv Chaturvedi", "project": "Introduction to Anomaly Detection using Probabilistic ML" },
+  { "name": "Sayandeep Haldar", "project": "Introduction to Anomaly Detection using Probabilistic ML" },
+  { "name": "Kushagra Kushwaha", "project": "Introduction to Machine Learning" },
+  { "name": "Saksham Khandelwal", "project": "Introduction to Machine Learning" },
+  { "name": "Nitanshu Bhutada", "project": "Introduction to Reinforcement Learning" },
+  { "name": "Rushil Bhat", "project": "Introduction to Reinforcement Learning" },
+  { "name": "Aarav Malde", "project": "Kalman Filtered Trader: A RL Agent for portfolio optimization" },
+  { "name": "Krishang Krishna", "project": "Kalman Filtered Trader: A RL Agent for portfolio optimization" },
+  { "name": "Bhoomi Singhvi", "project": "Lidar Cone Detection (LCD)" },
+  { "name": "Kasak Malhotra", "project": "Lidar Cone Detection (LCD)" },
+  { "name": "Advay Bapat", "project": "Machine Learning From Scratch" },
+  { "name": "Apoorv goyal", "project": "Machine Learning From Scratch" },
+  { "name": "Sarthak Toshniwal", "project": "Market Mood & Moves: Sentiment-Driven Stock Prediction" },
+  { "name": "Meet Agrawal", "project": "Market Mood & Moves: Sentiment-Driven Stock Prediction" },
+  { "name": "Harshita", "project": "Mini-GPT2" },
+  { "name": "Srikrishna mourya Karunakaram", "project": "Mini-GPT2" },
+  { "name": "Anshul Goyal", "project": "Minigames using SAT solver" },
+  { "name": "Tanvi Anand", "project": "ML Meets the Sun and Wind: Smart Mapping for Renewable Energy Hotspots" },
+  { "name": "Aadeshveer Singh", "project": "Monte Carlo Simulations: From calculating area to Gambling in BlackJack" },
+  { "name": "Tanay Jha", "project": "Monte Carlo Simulations: From calculating area to Gambling in BlackJack" },
+  { "name": "Manvi Mehta", "project": "Movie Recommendation System using Content based Filtering" },
+  { "name": "Uma Kumari", "project": "Movie Recommendation System using Content based Filtering" },
+  { "name": "Abhinav V", "project": "Movie Recommendations system" },
+  { "name": "Boda Prabanjan Jadav", "project": "Movie Recommendations system" },
+  { "name": "Vibhor Bhartiya", "project": "Neural Networks - Teaching Computers to Think!" },
+  { "name": "Abhijeet Singh", "project": "Neural Networks - Teaching Computers to Think!" },
+  { "name": "Nilkrishna N. Gajare", "project": "Noisy Truth" },
+  { "name": "Yogesh Sangwan", "project": "Object Recognition System Using Deep Learning (YOLOv5 Framework)" },
+  { "name": "Utkarsh Tanwar", "project": "Object Recognition System Using Deep Learning (YOLOv5 Framework)" },
+  { "name": "Dawar J Deka", "project": "OncoNet - Skin Cancer Classification and Lesion Segmentation Using Deep Learning and Vision Transformers" },
+  { "name": "Ayusha Hongekar", "project": "Optimal Portfolio Allocation" },
+  { "name": "Ayush Sharma", "project": "Options Pricing" },
+  { "name": "Mayank kansal", "project": "Options Pricing" },
+  { "name": "Naman Nayak", "project": "Playing with Artificial Intelligence & Machine Learning" },
+  { "name": "Adeesh Jain", "project": "Playing with Artificial Intelligence & Machine Learning" },
+  { "name": "Dakshesh Sanjay Mishra", "project": "Predicting Market Dynamics for Data-Driven Portfolio Optimization" },
+  { "name": "Sushant Padha", "project": "Predicting Market Dynamics for Data-Driven Portfolio Optimization" },
+  { "name": "Deependra Sharma", "project": "Predicting Physics Observables at the LHC using Machine Learning on Advanced Collider Data" },
+  { "name": "Bhavin", "project": "Predicting Stock Volatility Using Financial News Sentiment Analysis" },
+  { "name": "Karan Bansal", "project": "Predicting Stock Volatility Using Financial News Sentiment Analysis" },
+  { "name": "Yuvraj Tiwari", "project": "Predictive Customer Analytics: CLV Forecasting & Behavioral Segmentation Using RFM Methodology" },
+  { "name": "Sneha Mane", "project": "Predictive Customer Analytics: CLV Forecasting & Behavioral Segmentation Using RFM Methodology" },
+  { "name": "Shivansh Gupta", "project": "Quant Agents: A Game Theory Model" },
+  { "name": "Salaj Sonar", "project": "Quant Agents: A Game Theory Model" },
+  { "name": "Adish Gupta", "project": "Real-Time Anomaly Detection in Surveillance Videos" },
+  { "name": "Muhammed Sufiyan", "project": "ReMind: An Agentic AI Tutor for Memory Retention" },
+  { "name": "Akshat Goel", "project": "RL in Trading" },
+  { "name": "Mayank Jain", "project": "RL in Trading" },
+  { "name": "Anousha Puvvala", "project": "Sarcasm Detection in News Headlines" },
+  { "name": "Sai Divya Teja", "project": "Scrape IT!!" },
+  { "name": "Pragallapati V S D Sai Mohith", "project": "Scrape IT!!" },
+  { "name": "Syed Ali", "project": "Sentiment Analysis for Financial News with NLP" },
+  { "name": "Tejas Kulkarni", "project": "Sentiment Analysis for Financial News with NLP" },
+  { "name": "Jyotirya Agrawal", "project": "Sentiment Analysis for Social Media Posts" },
+  { "name": "Adeesh Jain", "project": "SentiMind" },
+  { "name": "Yashneil Rawat", "project": "SentiMind" },
+  { "name": "Madhav Miglani", "project": "Simulation and Quantitative Analysis of the Black–Scholes Model Using Python" },
+  { "name": "Rakshit Rane", "project": "Simulation and Quantitative Analysis of the Black–Scholes Model Using Python" },
+  { "name": "Shrestha Khatri", "project": "Spotify Song Mood Classifier" },
+  { "name": "Tanya Menghani", "project": "Spotify Song Mood Classifier" },
+  { "name": "Aarav Gupta", "project": "SSMphony - AI voice generation using Mamba + SSMs" },
+  { "name": "Shibam Sundar Mahakud", "project": "SSMphony - AI voice generation using Mamba + SSMs" },
+  { "name": "Dhanvin", "project": "Stock Prediction model using LSTM" },
+  { "name": "Varad Padhye", "project": "Stock Prediction model using LSTM" },
+  { "name": "Abhinav Badegaonkar", "project": "Stock price prediction using Reinforcement Learning" },
+  { "name": "Vaidehi Agrawal", "project": "Stock price prediction using Reinforcement Learning" },
+  { "name": "Harsh kumar singh", "project": "Study of Models" },
+  { "name": "Syed Ali", "project": "Teaching AI Agents to Walk: Reinforcement Learning with Humanoids" },
+  { "name": "Aryan Metha", "project": "Teaching AI Agents to Walk: Reinforcement Learning with Humanoids" },
+  { "name": "Ayush Vijay Awatade", "project": "Text Sentiment Analysis API" },
+  { "name": "Nikhil Khandelwal", "project": "Text Sentiment Analysis API" },
+  { "name": "Subodh Patel", "project": "The Eye Within the Code: Crafting a Face Recognition AI" },
+  { "name": "Siddharth Nandipati", "project": "Theoretical ML : Algorithms To Applications" },
+  { "name": "Mulagalapati Eswara Venkata Parthiv", "project": "Theoretical ML : Algorithms To Applications" },
+  { "name": "Shourya Saxena", "project": "Through LLM Journey" },
+  { "name": "Varun Lalwani", "project": "Through LLM Journey" },
+  { "name": "Hindocha Avadh Dharmeshbhai", "project": "Tokens to Thought: A Contextual Transformer" },
+  { "name": "Mrigank Goel", "project": "Tokens to Thought: A Contextual Transformer" },
+  { "name": "Mahaswi Ganipisetty", "project": "Training Models for Object detection through Machine learning" },
+  { "name": "Aryan Prakash", "project": "TYPES OF TRESS IN DATA STRUCTURE" },
+  { "name": "Ashwary Verma", "project": "TYPES OF TRESS IN DATA STRUCTURE" },
+  { "name": "Rujula Ganesh Rahate", "project": "VisionLock - Build a Facial Recognition Tool" },
+  { "name": "K.Hari Hara Teja", "project": "web scraper" },
+  { "name": "Devounkar Giri", "project": "WildVision: Detecting Life in the Wilderness" },
+  { "name": "Anubhav Yadav", "project": "WildVision: Detecting Life in the Wilderness" }
+]
 };
