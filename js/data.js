@@ -362,6 +362,10 @@ window.CERT_DATA = {
       "project": "AI Media Automation Lab"
     },
     {
+      "name": "Tushar Dhingra",
+      "project": "AI Media Automation Lab"
+    },
+    {
       "name": "Vilakar Sri Vinaya",
       "project": "AI Powered Anomaly Detection in Medical Imagery"
     },
@@ -606,6 +610,10 @@ window.CERT_DATA = {
       "project": "Building Reasoning LLMs from Scratch using Chain-of-though Reasoning (DeepSeek R1)"
     },
     {
+      "name": "Aayush Kumar",
+      "project": "Building Reasoning LLMs from Scratch using Chain-of-though Reasoning (DeepSeek R1)"
+    },
+    {
       "name": "Mohit Khyalia",
       "project": "Buliding Reasoning LLMs from Scratch using Chain-of-thought reasoning (DeepSeek R1)"
     },
@@ -798,6 +806,10 @@ window.CERT_DATA = {
       "project": "Deep Learning from Scratch"
     },
     {
+      "name": "Anshika",
+      "project": "Deep Learning from Scratch"
+    },
+    {
       "name": "Ayushi Tiwari",
       "project": "Deep Learning from Scratch"
     },
@@ -823,6 +835,10 @@ window.CERT_DATA = {
     },
     {
       "name": "prem kumar lodhi",
+      "project": "End-to-End ML Systems on new datasets: From Transfer Learning to Production Deployment with Federated Averaging"
+    },
+    {
+      "name": "Vard Vinay Padhye",
       "project": "End-to-End ML Systems on new datasets: From Transfer Learning to Production Deployment with Federated Averaging"
     },
     {
@@ -1018,6 +1034,10 @@ window.CERT_DATA = {
       "project": "GitHub Repository Guide Agent"
     },
     {
+      "name": "Sai Durga Esha Yindukuri",
+      "project": "GitHub Repository Guide Agent"
+    },
+    {
       "name": "Anirudh Goel",
       "project": "GitHub Repository Guide Agent"
     },
@@ -1190,6 +1210,10 @@ window.CERT_DATA = {
       "project": "Introduction to Machine Learning"
     },
     {
+      "name": "Raghav Aggarwal",
+      "project": "Introduction to Machine Learning"
+    },
+    {
       "name": "Ayush Katiyar",
       "project": "Introduction to Machine Learning"
     },
@@ -1199,6 +1223,10 @@ window.CERT_DATA = {
     },
     {
       "name": "Akshita Jain",
+      "project": "Introduction to Reinforcement Learning"
+    },
+    {
+      "name": "Gaurish Bansal",
       "project": "Introduction to Reinforcement Learning"
     },
     {
@@ -1275,6 +1303,10 @@ window.CERT_DATA = {
     },
     {
       "name": "Atahar Alam",
+      "project": "Machine Learning From Scratch"
+    },
+    {
+      "name": "Raitanya Danasekaran",
       "project": "Machine Learning From Scratch"
     },
     {
@@ -1598,6 +1630,10 @@ window.CERT_DATA = {
       "project": "Predicting Physics Observables at the LHC using Machine Learning on Advanced Collider Data"
     },
     {
+      "name": "Jayesh Anilkumar Kukreja",
+      "project": "Financial Modelling"
+    },
+    {
       "name": "Ankit Kumar",
       "project": "Predicting Physics Observables at the LHC using Machine Learning on Advanced Collider Data"
     },
@@ -1739,6 +1775,10 @@ window.CERT_DATA = {
     },
     {
       "name": "Harsh Chopra",
+      "project": "Sarcasm Detection in News Headlines"
+    },
+    {
+      "name": "Kajal Kumari",
       "project": "Sarcasm Detection in News Headlines"
     },
     {
@@ -2020,13 +2060,18 @@ window.CERT_DATA = {
     {
       "name": "Vaishali Karande",
       "project": "Wildvision"
+    },
+    {
+      "name": "Raj Achliya",
+      "project": "Agentic Auto-flows"
     }
+
   ],
 
   "mentors": [
   { "name": "Garvit Meena", "project": "Speech Emotion Recognition" },
   { "name": "Krishna Kukreja", "project": "Speech Emotion Recognition" },
-  { "name": "Aditya Sanapala", "project": "🎶 Warming Up the Mic: Build Your own Speech-to-Text Engine!" },
+  { "name": "Aditya Sanapala", "project": "Warming Up the Mic: Build Your own Speech-to-Text Engine!" },
   { "name": "Shreshtha Gupta", "project": "Accio Alpha – Kalman Filtering magic" },
   { "name": "Gurnoor Sohal", "project": "Accio Alpha – Kalman Filtering magic" },
   { "name": "Pranav Mylarassu", "project": "Advanced Agentic AI for Beginners" },
