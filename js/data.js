@@ -714,6 +714,10 @@ window.CERT_DATA = {
       "project": "Citadel - Build the Algorithmic Black Box"
     },
     {
+      "name": "Mudil Goel",
+      "project": "Citadel - Build the Algorithmic Black Box"
+    },
+    {
       "name": "Mohammad Hifzan",
       "project": "Citadel - Build the Algorithmic Black Box"
     },
@@ -1118,6 +1122,10 @@ window.CERT_DATA = {
       "project": "Heatwave Forecasting Model"
     },
     {
+      "name": "Nidhi Patel",
+      "project": "Heatwave Forecasting Model"
+    },
+    {
       "name": "Hari Sheth",
       "project": "Image Deblurring using Deep Learning"
     },
@@ -1290,6 +1298,10 @@ window.CERT_DATA = {
       "project": "Machine Learning From Scratch"
     },
     {
+      "name": "Ritanya Danasekaran",
+      "project": "Machine Learning From Scratch"
+    },
+    {
       "name": "Happy Sankhla",
       "project": "Machine Learning From Scratch"
     },
@@ -1363,6 +1375,10 @@ window.CERT_DATA = {
     },
     {
       "name": "Shreya Anand",
+      "project": "Minigames using SAT Solvers"
+    },
+    {
+      "name": "Vansh Goel",
       "project": "Minigames using SAT Solvers"
     },
     {
