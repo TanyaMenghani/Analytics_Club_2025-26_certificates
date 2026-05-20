@@ -1326,6 +1326,10 @@ window.CERT_DATA = {
       "project": "Market Mood & Moves: Sentiment-Driven Stock Prediction"
     },
     {
+      "name": "Manas Gupta",
+      "project": "Market Mood & Moves: Sentiment-Driven Stock Prediction"
+    },
+    {
       "name": "Devansh Mehta",
       "project": "Market Mood & Moves: Sentiment-Driven Stock Prediction"
     },
@@ -1519,6 +1523,10 @@ window.CERT_DATA = {
     },
     {
       "name": "Raj Rane",
+      "project": "Object Recognition System Using Deep Learning (YOLOv5 Framework"
+    },
+    {
+      "name": "Piyush Jaiswal",
       "project": "Object Recognition System Using Deep Learning (YOLOv5 Framework"
     },
     {
