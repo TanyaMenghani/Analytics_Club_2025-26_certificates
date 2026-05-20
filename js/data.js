@@ -2096,6 +2096,10 @@ window.CERT_DATA = {
     {
       "name": "Raj Achliya",
       "project": "Agentic Auto-flows"
+    },
+    {
+      "name": "Kushagra Kushwaha",
+      "project": "SSMphony - AI voice generation using Mamba + SSMs"
     }
 
   ],
