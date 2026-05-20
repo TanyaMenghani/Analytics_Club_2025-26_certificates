@@ -842,7 +842,7 @@ window.CERT_DATA = {
       "project": "End-to-End ML Systems on new datasets: From Transfer Learning to Production Deployment with Federated Averaging"
     },
     {
-      "name": "Vard Vinay Padhye",
+      "name": "Varad Vinay Padhye",
       "project": "End-to-End ML Systems on new datasets: From Transfer Learning to Production Deployment with Federated Averaging"
     },
     {
@@ -1383,7 +1383,7 @@ window.CERT_DATA = {
     },
     {
       "name": "Lokesh N S",
-      "project": "ML Meets the Sun and Wind: Smart Mapping for Renewable Energy Hotspots"
+      "project": "Machine Learning From Scratch"
     },
     {
       "name": "Anushka Bansode",
@@ -1650,6 +1650,10 @@ window.CERT_DATA = {
       "project": "Financial Modelling"
     },
     {
+      "name": "Aaron gupta",
+      "project": "Financial Modelling"
+    },
+    {
       "name": "Ankit Kumar",
       "project": "Predicting Physics Observables at the LHC using Machine Learning on Advanced Collider Data"
     },
@@ -1791,6 +1795,10 @@ window.CERT_DATA = {
     },
     {
       "name": "Harsh Chopra",
+      "project": "Sarcasm Detection in News Headlines"
+    },
+    {
+      "name": "Kajal Kumari",
       "project": "Sarcasm Detection in News Headlines"
     },
     {
