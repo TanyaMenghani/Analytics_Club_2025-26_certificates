@@ -132,7 +132,8 @@ window.CERT_DATA = {
       "Bijaya Pathak",
       "Sayali Mahajan",
       "Yash Kumar Maru",
-      "snigdha sahu"
+      "snigdha sahu",
+      "Rutuparn Ranade"
     ],
     "nlp_advanced": [
       "Jennifer Esbel Mary",
@@ -323,6 +324,10 @@ window.CERT_DATA = {
     },
     {
       "name": "SOHIL",
+      "project": "AI for Self-Driving Car: Build a Traffic Sign Classifier"
+    },
+    {
+      "name": "Jithin K",
       "project": "AI for Self-Driving Car: Build a Traffic Sign Classifier"
     },
     {
@@ -818,6 +823,10 @@ window.CERT_DATA = {
       "project": "Deep Learning from Scratch"
     },
     {
+      "name": "Jaswin Reddy Mandavyapuram",
+      "project": "Deep Learning from Scratch"
+    },
+    {
       "name": "Aripikatla Tejaswi",
       "project": "DL Content Based Recommender for Movies"
     },
@@ -887,6 +896,10 @@ window.CERT_DATA = {
     },
     {
       "name": "Rishab jain",
+      "project": "Equity classification using Machine Learning on Financial Ratios"
+    },
+    {
+      "name": "Sahana Kamdar",
       "project": "Equity classification using Machine Learning on Financial Ratios"
     },
     {
@@ -1234,11 +1247,19 @@ window.CERT_DATA = {
       "project": "Introduction to Reinforcement Learning"
     },
     {
+      "name": "Prerika Mishra",
+      "project": "Introduction to Reinforcement Learning"
+    },
+    {
       "name": "Gaurish Bansal",
       "project": "Introduction to Reinforcement Learning"
     },
     {
       "name": "Lavanya Padole",
+      "project": "Kalman Filtered Trader: A RL Agent for portfolio optimization"
+    },
+    {
+      "name": "Venkat Suryaansh Thota",
       "project": "Kalman Filtered Trader: A RL Agent for portfolio optimization"
     },
     {
@@ -1359,6 +1380,10 @@ window.CERT_DATA = {
     },
     {
       "name": "Krishna Bansal",
+      "project": "Market Mood & Moves: Sentiment-Driven Stock Prediction"
+    },
+    {
+      "name": "Ananya Reddy Pachika",
       "project": "Market Mood & Moves: Sentiment-Driven Stock Prediction"
     },
     {
@@ -1675,7 +1700,7 @@ window.CERT_DATA = {
     },
     {
       "name": "Soumya Bajaj",
-      "project": "Predicting Physics Observables at the LHC using Machine Learning on Advanced Collider Data"
+      "project": "Predicting Stock Volatility Using Financial News Sentiment Analysis"
     },
     {
       "name": "Divya Sharma",
@@ -1683,6 +1708,10 @@ window.CERT_DATA = {
     },
     {
       "name": "Aashi Agrawal",
+      "project": "Predicting Stock Volatility Using Financial News Sentiment Analysis"
+    },
+    {
+      "name": "Aryan Balabadrula",
       "project": "Predicting Stock Volatility Using Financial News Sentiment Analysis"
     },
     {
@@ -1990,6 +2019,10 @@ window.CERT_DATA = {
       "project": "The Eye Within the Code: Crafting a Face Recognition AI"
     },
     {
+      "name": "Laxmi Bhargav",
+      "project": "The Eye Within the Code: Crafting a Face Recognition AI"
+    },
+    {
       "name": "Suryangshu Das",
       "project": "The Eye Within the Code: Crafting a Face Recognition AI"
     },
@@ -2100,6 +2133,22 @@ window.CERT_DATA = {
     {
       "name": "Kushagra Kushwaha",
       "project": "SSMphony - AI voice generation using Mamba + SSMs"
+    },
+    {
+      "name": "Chirag Borkar",
+      "project": "Theoretical ML : Algorithms To Applications"
+    },
+    {
+      "name": "Ishaan Chhaya",
+      "project": "Quant Agents: A Game Theory Model"
+    },
+    {
+      "name": "Umesh Motiwale",
+      "project": "Lidar Cone Detection (LCD)"
+    },
+    {
+      "name": "Avanaganti Anirudh Reddy",
+      "project": "TYPES OF TREES IN DATA STRUCTURE"
     }
 
   ],
@@ -2274,8 +2323,8 @@ window.CERT_DATA = {
   { "name": "Hindocha Avadh Dharmeshbhai", "project": "Tokens to Thought: A Contextual Transformer" },
   { "name": "Mrigank Goel", "project": "Tokens to Thought: A Contextual Transformer" },
   { "name": "Mahaswi Ganipisetty", "project": "Training Models for Object detection through Machine learning" },
-  { "name": "Aryan Prakash", "project": "TYPES OF TRESS IN DATA STRUCTURE" },
-  { "name": "Ashwary Verma", "project": "TYPES OF TRESS IN DATA STRUCTURE" },
+  { "name": "Aryan Prakash", "project": "TYPES OF TREES IN DATA STRUCTURE" },
+  { "name": "Ashwary Verma", "project": "TYPES OF TREES IN DATA STRUCTURE" },
   { "name": "Rujula Ganesh Rahate", "project": "VisionLock - Build a Facial Recognition Tool" },
   { "name": "K.Hari Hara Teja", "project": "web scraper" },
   { "name": "Devounkar Giri", "project": "WildVision: Detecting Life in the Wilderness" },
