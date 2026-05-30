@@ -619,6 +619,10 @@ window.CERT_DATA = {
       "project": "Building Reasoning LLMs from Scratch using Chain-of-though Reasoning (DeepSeek R1)"
     },
     {
+      "name": "Meet Agrawal",
+      "project": "Building Reasoning LLMs from Scratch using Chain-of-though Reasoning (DeepSeek R1)"
+    },
+    {
       "name": "Mohit Khyalia",
       "project": "Buliding Reasoning LLMs from Scratch using Chain-of-thought reasoning (DeepSeek R1)"
     },
@@ -803,6 +807,10 @@ window.CERT_DATA = {
       "project": "Decode the Vision: Building CNNs for Real-World Image Classification"
     },
     {
+      "name": "Prakriti Nath Sarkar",
+      "project": "Decode the Vision: Building CNNs for Real-World Image Classification"
+    },
+    {
       "name": "Deepak Kumar",
       "project": "Deep Learning from Scratch"
     },
@@ -916,6 +924,10 @@ window.CERT_DATA = {
     },
     {
       "name": "Aditya Kumar Shah",
+      "project": "Exploratory Data Analysis (EDA) Using Python"
+    },
+    {
+      "name": "Himanshu Bharambe",
       "project": "Exploratory Data Analysis (EDA) Using Python"
     },
     {
@@ -1391,6 +1403,10 @@ window.CERT_DATA = {
       "project": "Minigames using SAT Solvers"
     },
     {
+      "name": "Lakshya Agrawal",
+      "project": "Minigames using SAT Solvers"
+    },
+    {
       "name": "Arjun Gupta",
       "project": "Minigames using SAT Solvers"
     },
@@ -1599,7 +1615,7 @@ window.CERT_DATA = {
       "project": "Optimal Portfolio Allocation"
     },
     {
-      "name": "Ashish Shsukla",
+      "name": "Ashish Shukla",
       "project": "Optimal Portfolio Allocation"
     },
     {
@@ -1700,6 +1716,10 @@ window.CERT_DATA = {
     },
     {
       "name": "Soumya Bajaj",
+      "project": "Predicting Stock Volatility Using Financial News Sentiment Analysis"
+    },
+    {
+      "name": "Dhruv Natu",
       "project": "Predicting Stock Volatility Using Financial News Sentiment Analysis"
     },
     {
@@ -2076,6 +2096,10 @@ window.CERT_DATA = {
     },
     {
       "name": "yash pippal",
+      "project": "TYPES OF TREES IN DATA STRUCTURE"
+    },
+    {
+      "name": "Somisetty Venkata Sai Chakri",
       "project": "TYPES OF TREES IN DATA STRUCTURE"
     },
     {
