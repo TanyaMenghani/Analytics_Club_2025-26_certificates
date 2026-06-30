@@ -583,11 +583,11 @@ window.CERT_DATA = {
       "project": "Blockchain-Integrated Machine learning system for Cryptocurrency Fraud Detection"
     },
     {
-      "name": "Achintya Jha",
-      "project": "Building Reasoning LLMs from Scratch using Chain-of-though Reasoning (DeepSeek R1)"
+      "name": "Rakesh Joshi",
+      "project": "Blockchain-Integrated Machine learning system for Cryptocurrency Fraud Detection"
     },
     {
-      "name": "Rakesh Joshi",
+      "name": "Achintya Jha",
       "project": "Building Reasoning LLMs from Scratch using Chain-of-though Reasoning (DeepSeek R1)"
     },
     {
