@@ -363,6 +363,10 @@ window.CERT_DATA = {
       "project": "AI for Self-Driving Car: Build a Traffic Sign Classifier"
     },
     {
+      "name": "Prakhar Maheshwari",
+      "project": "AI for Self-Driving Car: Build a Traffic Sign Classifier"
+    },
+    {
       "name": "Nihar Patel",
       "project": "AI Media Automation Lab"
     },
@@ -580,6 +584,10 @@ window.CERT_DATA = {
     },
     {
       "name": "Achintya Jha",
+      "project": "Building Reasoning LLMs from Scratch using Chain-of-though Reasoning (DeepSeek R1)"
+    },
+    {
+      "name": "Rakesh Joshi",
       "project": "Building Reasoning LLMs from Scratch using Chain-of-though Reasoning (DeepSeek R1)"
     },
     {
@@ -1436,6 +1444,10 @@ window.CERT_DATA = {
     },
     {
       "name": "Darshan Lad",
+      "project": "ML Meets the Sun and Wind: Smart Mapping for Renewable Energy Hotspots"
+    },
+    {
+      "name": "Param Patel",
       "project": "ML Meets the Sun and Wind: Smart Mapping for Renewable Energy Hotspots"
     },
     {
