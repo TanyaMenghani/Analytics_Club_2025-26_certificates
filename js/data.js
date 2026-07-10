@@ -487,6 +487,10 @@ window.CERT_DATA = {
       "project": "Ask the Image: Explainable AI for Visual Q&A"
     },
     {
+      "name": "Ishant Kumar",
+      "project": "Ask the Image: Explainable AI for Visual Q&A"
+    },
+    {
       "name": "Dhruv Pushkar Jadhav",
       "project": "Augmented Reality Face Tracking and Overlay System"
     },
@@ -688,6 +692,10 @@ window.CERT_DATA = {
     },
     {
       "name": "Mandava kowshik",
+      "project": "Citadel - Build the Algorithmic Black Box"
+    },
+    {
+      "name": "Mithra Bijumon",
       "project": "Citadel - Build the Algorithmic Black Box"
     },
     {
@@ -984,6 +992,10 @@ window.CERT_DATA = {
     },
     {
       "name": "Simon Bansal",
+      "project": "Financial Modelling"
+    },
+    {
+      "name": "Samik Kodoth",
       "project": "Financial Modelling"
     },
     {
@@ -1284,6 +1296,10 @@ window.CERT_DATA = {
     },
     {
       "name": "Balaaditya Matcha",
+      "project": "Kalman Filtered Trader: A RL Agent for portfolio optimization"
+    },
+    {
+      "name": "Anant Bartaria",
       "project": "Kalman Filtered Trader: A RL Agent for portfolio optimization"
     },
     {
@@ -1724,7 +1740,7 @@ window.CERT_DATA = {
     },
     {
       "name": "Aditya Koli",
-      "project": "Predicting Physics Observables at the LHC using Machine Learning on Advanced Collider Data"
+      "project": "Predicting Stock Volatility Using Financial News Sentiment Analysis"
     },
     {
       "name": "Soumya Bajaj",
@@ -1896,6 +1912,10 @@ window.CERT_DATA = {
     },
     {
       "name": "Dhruba Jyoti Panja",
+      "project": "Sentiment Analysis for Financial News with NLP"
+    },
+    {
+      "name": "Sachi",
       "project": "Sentiment Analysis for Financial News with NLP"
     },
     {
