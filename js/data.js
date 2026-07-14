@@ -527,6 +527,10 @@ window.CERT_DATA = {
       "project": "Battery SOH estimation"
     },
     {
+      "name": "Priyanshi Bhide",
+      "project": "Battery SOH estimation"
+    },
+    {
       "name": "Swapnil Purohit",
       "project": "Battery SOH Estimation"
     },
