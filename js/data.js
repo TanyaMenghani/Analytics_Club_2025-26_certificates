@@ -875,6 +875,10 @@ window.CERT_DATA = {
       "project": "EDA using python"
     },
     {
+      "name": "Siddhi Jain",
+      "project": "EDA using python"
+    },
+    {
       "name": "prem kumar lodhi",
       "project": "End-to-End ML Systems on new datasets: From Transfer Learning to Production Deployment with Federated Averaging"
     },
@@ -1683,6 +1687,10 @@ window.CERT_DATA = {
       "project": "Option Pricing with Black Scholes"
     },
     {
+      "name": "Chiluka Pravas",
+      "project": "Option Pricing"
+    },
+    {
       "name": "Tavish Singh",
       "project": "Playing with Artificial Intelligence & Machine Learning"
     },
@@ -2035,6 +2043,10 @@ window.CERT_DATA = {
       "project": "Stock price prediction using Reinforcement Learning"
     },
     {
+      "name": "Aman Jain",
+      "project": "Stock price prediction using Reinforcement Learning"
+    },
+    {
       "name": "Ark Singh",
       "project": "Stock price prediction using Reinforcement Learning"
     },
@@ -2144,7 +2156,7 @@ window.CERT_DATA = {
     },
     {
       "name": "Arin Pendharkar",
-      "project": "Warming Up the Mic: Build Your own Speech-to-Text Engine!"
+      "project": "Credit Card Fraud Detection"
     },
     {
       "name": "Boda Prabanjan Jadav",
