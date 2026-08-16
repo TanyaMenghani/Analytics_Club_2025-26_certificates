@@ -215,15 +215,15 @@ window.CERT_DATA = {
   },
   "wids": [
     {
+      "name": "Devam Jasani",
+      "project": "Accio Alpha - Kalman Filtering Magic"
+    },
+    {
       "name": "Hrishikesan V",
       "project": "Accio Alpha"
     },
     {
       "name": "Rajit Goyal",
-      "project": "Accio Alpha - Kalman Filtering Magic"
-    },
-    {
-      "name": "Devam Jasani",
       "project": "Accio Alpha - Kalman Filtering Magic"
     },
     {
@@ -1651,15 +1651,15 @@ window.CERT_DATA = {
       "project": "Optimal Portfolio Allocation"
     },
     {
-      "name": "Manish Chahar",
-      "project": "Optimal Portfolio Allocation"
-    },
-    {
       "name": "Kamal Kishor Bhagat",
       "project": "Optimal Portfolio Allocation"
     },
     {
       "name": "Ashish Shukla",
+      "project": "Optimal Portfolio Allocation"
+    },
+    {
+      "name": "Manish Chahar",
       "project": "Optimal Portfolio Allocation"
     },
     {
