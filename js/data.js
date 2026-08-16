@@ -223,6 +223,10 @@ window.CERT_DATA = {
       "project": "Accio Alpha - Kalman Filtering Magic"
     },
     {
+      "name": "Devam Jasani",
+      "project": "Accio Alpha - Kalman Filtering Magic"
+    },
+    {
       "name": "Tsewang Namgyal",
       "project": "Accio Alpha - Kalman Filtering Magic"
     },
@@ -1644,6 +1648,10 @@ window.CERT_DATA = {
     },
     {
       "name": "Aditya Maknikar",
+      "project": "Optimal Portfolio Allocation"
+    },
+    {
+      "name": "Manish Chahar",
       "project": "Optimal Portfolio Allocation"
     },
     {
