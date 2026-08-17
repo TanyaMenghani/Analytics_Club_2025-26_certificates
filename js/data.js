@@ -523,6 +523,10 @@ window.CERT_DATA = {
       "project": "AutoDevX: The Next-Gen Agentic AI for Autonomous Code Testing and Self-Improving Applications"
     },
     {
+      "name": "Mehak",
+      "project": "AutoDevX: The Next-Gen Agentic AI for Autonomous Code Testing and Self-Improving Applications"
+    },
+    {
       "name": "Rujula Ganesh Rahate",
       "project": "AutoDevX: The Next-Gen Agentic AI for Autonomous Code Testing and Self-Improving Applications"
     },
@@ -881,6 +885,10 @@ window.CERT_DATA = {
     {
       "name": "Siddhi Jain",
       "project": "EDA using python"
+    },
+    {
+      "name": "Akanksha Patel",
+      "project": "End-to-End ML Systems on new datasets: From Transfer Learning to Production Deployment with Federated Averaging"
     },
     {
       "name": "prem kumar lodhi",
@@ -2229,8 +2237,11 @@ window.CERT_DATA = {
     {
       "name": "Avanaganti Anirudh Reddy",
       "project": "TYPES OF TREES IN DATA STRUCTURE"
+    },
+    {
+      "name": "Akanksha Patel",
+      "project": "Decoding the AI Black Box: Feature Visualization & Error Analysis"
     }
-
   ],
 
   "mentors": [
